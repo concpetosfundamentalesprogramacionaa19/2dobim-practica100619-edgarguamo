@@ -7,5 +7,5 @@ del conjunto de datos
 
 Las cabeceras de cada columna son:
 
-Numero|FIFADisplayName|Country|LastName|FirstName|ShirtName|DOB|POS|Club|Height|Caps|Goals
+0Numero|1FIFADisplayName|2Country|3LastName|4FirstName|5ShirtName|6DOB|7POS|8Club|9Height|10Caps|11Goals
 
